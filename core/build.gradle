@@ -38,7 +38,7 @@ publishing {
             groupId 'com.lib'
             artifactId 'gdx'
             version '1.0'
-            artifact("$buildDir/libs/gdx-1.0.jar")
+            artifact("$buildDir/libs/core-1.0.jar")
         }
     }
 }
